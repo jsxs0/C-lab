@@ -1,2 +1,2 @@
-# C-lab
+# C++-lab
 In GITAM
